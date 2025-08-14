@@ -1,3 +1,4 @@
+Update 0.1 alpha
 - 👋 Hi, I’m @gmorb
 - 👀 I’m interested in learning all the foundations needed to get into pentesting or red teaming or who knows maybe ill just become a coder as a hobby.
 - 🌱 I’m currently learning becoming fluent in python and linux and getting more networking knowledge
